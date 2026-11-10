@@ -22,3 +22,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Datos de las bases H2
+data/

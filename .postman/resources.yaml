@@ -1,0 +1,8 @@
+# Use this workspace to collaborate
+workspace:
+  id: 3a291a52-4acb-4e7c-833f-1ff6992d1283
+
+localResources:
+  specs:
+    - ../docs/openapi-catalogo.json
+    - ../docs/openapi-ventas.json
